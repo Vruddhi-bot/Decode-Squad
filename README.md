@@ -1,16 +1,28 @@
-# decode_squad
+# 💻 Decode Squad 🐱‍💻
+The aim and objective of our team is to develop and maintain a Software System that is capable of solving a real-life problem and provide a great virtual experience to the users which is seamless and interactive.
 
-A new Flutter project.
 
-## Getting Started
+## Health Tech 📱💉
+(Problem Statement - 6)
 
-This project is a starting point for a Flutter application.
+Getting a proper health facility is a dream for all. Not all government hospitals have good facilities, equipment, or
+experienced staff to take care of the people of that city. This issue can be resolved if all the government hospitals work 
+collaboratively and ensure good facilities are provided to all. For example, consider in a small town, a government 
+hospital does not have the equipment to treat the patient. So, the hospital referred that patient to a more equipped 
+government hospital near to the city. Now the patient feels helpless to go to the referred government hospital and 
+explain his/her illness, as they now must follow the same procedure as followed before in the small-town government 
+hospital to get information about the illness like going through the same tests, same checkups, etc.
+So, you have to create a prototype that solves the issues mentioned above.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Team Members
+- [@mayurrkukreja](https://www.github.com/mayurrkukreja)
+- [@kunalw007](https://www.github.com/kunalw007)
+- [@zaynshaikh111](https://www.github.com/kunalw007)
+- [@RohitBaxani](https://www.github.com/RohitBaxani)
+- [@vruddhitolia](https://www.github.com)
+
+
