@@ -18,7 +18,7 @@ So, you have to create a prototype that solves the issues mentioned above.
 
 
 
-## Team Members
+## Contributors
 - [@mayurrkukreja](https://www.github.com/mayurrkukreja)
 - [@kunalw007](https://www.github.com/kunalw007)
 - [@zaynshaikh111](https://www.github.com/kunalw007)
